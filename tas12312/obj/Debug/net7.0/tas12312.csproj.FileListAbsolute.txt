@@ -1,0 +1,14 @@
+/Users/daeddman/RiderProjects/qbit3/tas12312/bin/Debug/net7.0/tas12312
+/Users/daeddman/RiderProjects/qbit3/tas12312/bin/Debug/net7.0/tas12312.deps.json
+/Users/daeddman/RiderProjects/qbit3/tas12312/bin/Debug/net7.0/tas12312.runtimeconfig.json
+/Users/daeddman/RiderProjects/qbit3/tas12312/bin/Debug/net7.0/tas12312.dll
+/Users/daeddman/RiderProjects/qbit3/tas12312/bin/Debug/net7.0/tas12312.pdb
+/Users/daeddman/RiderProjects/qbit3/tas12312/obj/Debug/net7.0/tas12312.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daeddman/RiderProjects/qbit3/tas12312/obj/Debug/net7.0/tas12312.AssemblyInfoInputs.cache
+/Users/daeddman/RiderProjects/qbit3/tas12312/obj/Debug/net7.0/tas12312.AssemblyInfo.cs
+/Users/daeddman/RiderProjects/qbit3/tas12312/obj/Debug/net7.0/tas12312.csproj.CoreCompileInputs.cache
+/Users/daeddman/RiderProjects/qbit3/tas12312/obj/Debug/net7.0/tas12312.dll
+/Users/daeddman/RiderProjects/qbit3/tas12312/obj/Debug/net7.0/refint/tas12312.dll
+/Users/daeddman/RiderProjects/qbit3/tas12312/obj/Debug/net7.0/tas12312.pdb
+/Users/daeddman/RiderProjects/qbit3/tas12312/obj/Debug/net7.0/tas12312.genruntimeconfig.cache
+/Users/daeddman/RiderProjects/qbit3/tas12312/obj/Debug/net7.0/ref/tas12312.dll

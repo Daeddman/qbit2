@@ -1,0 +1,14 @@
+/Users/daeddman/RiderProjects/qbit3/task10/bin/Debug/net7.0/task10
+/Users/daeddman/RiderProjects/qbit3/task10/bin/Debug/net7.0/task10.deps.json
+/Users/daeddman/RiderProjects/qbit3/task10/bin/Debug/net7.0/task10.runtimeconfig.json
+/Users/daeddman/RiderProjects/qbit3/task10/bin/Debug/net7.0/task10.dll
+/Users/daeddman/RiderProjects/qbit3/task10/bin/Debug/net7.0/task10.pdb
+/Users/daeddman/RiderProjects/qbit3/task10/obj/Debug/net7.0/task10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daeddman/RiderProjects/qbit3/task10/obj/Debug/net7.0/task10.AssemblyInfoInputs.cache
+/Users/daeddman/RiderProjects/qbit3/task10/obj/Debug/net7.0/task10.AssemblyInfo.cs
+/Users/daeddman/RiderProjects/qbit3/task10/obj/Debug/net7.0/task10.csproj.CoreCompileInputs.cache
+/Users/daeddman/RiderProjects/qbit3/task10/obj/Debug/net7.0/task10.dll
+/Users/daeddman/RiderProjects/qbit3/task10/obj/Debug/net7.0/refint/task10.dll
+/Users/daeddman/RiderProjects/qbit3/task10/obj/Debug/net7.0/task10.pdb
+/Users/daeddman/RiderProjects/qbit3/task10/obj/Debug/net7.0/task10.genruntimeconfig.cache
+/Users/daeddman/RiderProjects/qbit3/task10/obj/Debug/net7.0/ref/task10.dll
